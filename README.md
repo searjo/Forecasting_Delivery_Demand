@@ -7,4 +7,4 @@ The naive model (just predicting this week based on last week) worked very well 
 
 Multiple evaluation metrics are important - the MSE moving averages indicate that XGBoost performed best, while the SMAPE moving averages indicate that XGboost performed worst.
 
-Finally - we recognize a gridsearch and hyperparameters tuning would be best practice here, however we believe it is outside the scope of this assignment. Further tuning and experimentation would likely improve the XGB and RF models.
+A gridsearch and hyperparameters tuning would be best practice if continuing this project. Further tuning and experimentation would likely improve the XGB and RF models.
